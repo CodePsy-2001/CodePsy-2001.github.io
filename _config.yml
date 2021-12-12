@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 코드싸이의 심리-코딩 연구소                          # the main title
+title: 코드싸이 심리 연구소                          # the main title
 
-tagline: 코딩, 프로그래밍, 심리학, 통계학, 계산과학   # it will display as the sub-title
+tagline: 프로그래밍, 심리학, 계산과학   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
