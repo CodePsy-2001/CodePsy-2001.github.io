@@ -1,5 +1,5 @@
 ---
-title: "[심리검사] Factor Analysi 요인 분석"
+title: "[심리검사] Factor Analysis 요인 분석"
 date: 2021-12-17 01:38:12 +0900
 categories: [심리학, 필기]
 tags: [심리검사및측정]
