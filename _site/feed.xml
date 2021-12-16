@@ -1,0 +1,302 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>코드싸이 심리 연구소</title>
+  <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
+  <updated>2021-12-17T01:59:56+09:00</updated>
+  <author>
+    <name>CodePsy-2001</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <rights> © 2021 CodePsy-2001 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>[심리검사] Factor Analysis 요인 분석</title>
+    <link href="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8E%EC%B8%A1%EC%A0%95-Factor-Analysis-%EC%9A%94%EC%9D%B8-%EB%B6%84%EC%84%9D/" rel="alternate" type="text/html" title="[심리검사] Factor Analysis 요인 분석" />
+    <published>2021-12-17T01:38:12+09:00</published>
+  
+    <updated>2021-12-17T01:49:41+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8E%EC%B8%A1%EC%A0%95-Factor-Analysis-%EC%9A%94%EC%9D%B8-%EB%B6%84%EC%84%9D/</id>
+    <content src="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8E%EC%B8%A1%EC%A0%95-Factor-Analysis-%EC%9A%94%EC%9D%B8-%EB%B6%84%EC%84%9D/" />
+    <author>
+      <name>CodePsy-2001</name>
+    </author>
+
+  
+    
+    <category term="심리학" />
+    
+    <category term="필기" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Factor Analysis: Common Factor Model
+
+대전제: 공통 요인(common factor)과 고유 요인(unique factor)이 따로 있어서 각각 영향을 미친다
+
+
+  공통 요인?
+    
+      primary mental abilities 의 지표
+      여러 가지 공통 요인이 있음
+      하나 이상의 심리검사에 영향을 미치기 때문에 “공통common” 이라고 불림
+      여러 심리검사 사이의 상관관계를 설명함. 심리검사는 하나 이상의 동일한 공통요인에 의존하기 때문.
+    
+  
+  고유 요인?
+    
+      심리검사 하나에만 영향을 미치는 요인
+      각각의 심리검사가 각각 자신의 고유 요인을 가진다
+      심리검사들 사이의 상관관계를 설명해...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>[심리검사] Validity 타당도</title>
+    <link href="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-Validity/" rel="alternate" type="text/html" title="[심리검사] Validity 타당도" />
+    <published>2021-12-17T01:37:17+09:00</published>
+  
+    <updated>2021-12-17T01:37:17+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-Validity/</id>
+    <content src="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-Validity/" />
+    <author>
+      <name>CodePsy-2001</name>
+    </author>
+
+  
+    
+    <category term="심리학" />
+    
+    <category term="필기" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Validity
+
+검사 신뢰도 - 측정도구가 측정하고자 하는 어떤 특성을 얼마나 일관되고 정확하게 측정하느냐
+
+검사 타당도 - 측정도구가 측정하고자 하는 어떤 특성이나 현상을 제대로 측정하느냐
+
+
+  이 검사가 얼마나 좋은 추론, 신뢰할 수 있는 결론을 도출할 수 있는지와 관련있음
+
+
+신뢰도가 높다고 반드시 타당도까지 높은 건 아니다.
+
+
+  타당성이 있다고 신뢰도가 보장되는 건 아니지만,
+대부분의 경우 타당한 검사는 신뢰도도 높음.
+
+
+이걸 어떻게 측정함?
+
+
+  타당도는 진화하는 속성이다. 검사 타당도가 확립되는 과정은 지속적인 과정이다.
+  검사 점수에서 도출할 수 있는 추론을 뒷받침하는 증거를 축적해,
+주어진 검사의 타당성에 대한 ‘strong case (강력한 사례)’를 개발해야 한다.
+  타...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>[심리검사] CTT &amp; Reliability 신뢰도</title>
+    <link href="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-CTT-&amp;-Reliability/" rel="alternate" type="text/html" title="[심리검사] CTT &amp; Reliability 신뢰도" />
+    <published>2021-12-17T01:37:14+09:00</published>
+  
+    <updated>2021-12-17T01:37:14+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-CTT-&amp;-Reliability/</id>
+    <content src="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-CTT-&amp;-Reliability/" />
+    <author>
+      <name>CodePsy-2001</name>
+    </author>
+
+  
+    
+    <category term="심리학" />
+    
+    <category term="필기" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      CTT &amp;amp; Reliability
+
+측정의 세 가지 유형
+
+
+  Parallel measures (동형 측정치)
+    
+      이번 강의에서 주로 다루는 내용 - 동형 측정치에서 신뢰도 얻는 법
+    
+  
+  Tau-equivalent measures (타우-동등 측정치)
+  Congeneric measures (일반공동 측정치)
+
+
+Strictly Parallel Measures
+
+
+  
+    
+      각 개인이 두 측정에서 동일한 실제점수를 가지고,
+      각 개인이 두 측정에서 오류 분산이 동일할 때
+    
+
+    두 측정이 엄밀하게 동형이라고 말한다.
+  
+  
+    Xpi = Tpi + Epi = Ti + Epi
+Xqi = Tqi + Eqi = Ti + Eqi
+Va...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>[심리검사] Test and Measurement 검사와 측정</title>
+    <link href="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-Test-and-Measurement/" rel="alternate" type="text/html" title="[심리검사] Test and Measurement 검사와 측정" />
+    <published>2021-12-17T01:37:12+09:00</published>
+  
+    <updated>2021-12-17T01:37:12+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-Test-and-Measurement/</id>
+    <content src="http://localhost:4000/posts/%EC%8B%AC%EB%A6%AC%EA%B2%80%EC%82%AC%EB%B0%8F%EC%B8%A1%EC%A0%95-Test-and-Measurement/" />
+    <author>
+      <name>CodePsy-2001</name>
+    </author>
+
+  
+    
+    <category term="심리학" />
+    
+    <category term="필기" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      2021-2학기 서강대학교 심리검사및측정 수업의 필기자료입니다.
+
+Test and Measurement
+
+
+  construct 구성개념 - 증명되거나 관찰된 일련의 유사한 행동으로부터 추론되는 추상적인 가상의 실체
+    
+      ex) 사랑, 동기부여, 역량, 우울 등
+      latent variable 잠재변수라고도 불림
+    
+  
+  indicators 지표 - 관찰된 행동은 구성개념의 표현으로 가정될 수 있다.
+    
+      ex) 심리학자의 우울증 조사 / 구성개념: 우울함 / 지표: BDI점수
+      이 지표가 좋은 지표인지는 어떻게 알 수 있을까?
+    
+  
+  measurement instruments 측정 도구
+    
+      Scale, Test, Inve...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>[에세이] 전자정부표준프레임워크가 욕받이가 된 상황에 관하여</title>
+    <link href="http://localhost:4000/posts/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EC%9A%95%EB%B0%9B%EC%9D%B4%EA%B0%80-%EB%90%9C-%EC%83%81%ED%99%A9%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/" rel="alternate" type="text/html" title="[에세이] 전자정부표준프레임워크가 욕받이가 된 상황에 관하여" />
+    <published>2021-12-16T13:40:03+09:00</published>
+  
+    <updated>2021-12-16T14:01:27+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EC%9A%95%EB%B0%9B%EC%9D%B4%EA%B0%80-%EB%90%9C-%EC%83%81%ED%99%A9%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/</id>
+    <content src="http://localhost:4000/posts/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EC%9A%95%EB%B0%9B%EC%9D%B4%EA%B0%80-%EB%90%9C-%EC%83%81%ED%99%A9%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/" />
+    <author>
+      <name>CodePsy-2001</name>
+    </author>
+
+  
+    
+    <category term="프로그래밍" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  
+    대한민국의 인터넷 발전은 김대중 정부의 전자정부 정책에 힘입은 면이 크다.
+
+    박정희가 강남 개발하던 것처럼 상당히 공격적인 방식을 취했는데, 일례로 일본/독일을 따르지 않고 동축케이블 대신 광케이블을 깔았다.
+
+    IMF의 여파를 벗어나기 위해 각종 벤처기업 진흥정책과 국민PC 사업 등 신기술 투자 정책을 가속화했는데 이것도 제대로 먹혀들었다.
+  
+  
+    전자정부표준프레임워크는 이러한 정부 주도 신산업 육성의 성공사례를 고대로 본딴 것이다.
+
+    이제나 저제나 스타트업이 성장하기 가장 쉬운 방법은 정부 과제를 따내는 것이다. 이 과정에 효율성을 더하기 위해 개발한 것.
+  
+  
+    문제는 대한민국의 소프트웨어 산업 구도가 SI 중심으로만 지나치게 편중되어있다 보...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
