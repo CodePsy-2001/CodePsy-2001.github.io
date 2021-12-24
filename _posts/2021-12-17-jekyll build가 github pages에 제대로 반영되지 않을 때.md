@@ -1,7 +1,7 @@
 ---
 title: "jekyll build가 github pages에 제대로 반영되지 않을 때"
 date: 2021-12-17 02:12:55 +0900
-categories: [프로그래밍]
+categories: [프로그래밍, 기술]
 tags: [jekyll, github]
 ---
 
@@ -31,7 +31,7 @@ tags, categories 페이지의 업데이트가 안 된다든가... 오타를 수�
 
 ### 해결법
 
-페이지 전체에 걸쳐서 강제 build를 한번씩 거쳐주면 해결된다. 
+페이지 전체에 걸쳐서 강제 build를 한번씩 거쳐주면 해결된다.
 
 이를 위한 가장 쉬운 방법은 루트 디렉토리의 index.html 파일에 주석을 한두줄 추가해주는 것이다.
 
