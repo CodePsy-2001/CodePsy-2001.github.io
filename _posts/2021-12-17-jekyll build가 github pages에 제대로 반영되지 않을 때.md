@@ -1,7 +1,7 @@
 ---
 title: "jekyll build가 github pages에 제대로 반영되지 않을 때"
 date: 2021-12-17 02:12:55 +0900
-categories: [프로그래밍, 기술]
+categories: [프로그래밍, 메모]
 tags: [jekyll, github]
 ---
 
