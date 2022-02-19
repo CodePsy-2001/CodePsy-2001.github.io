@@ -5,10 +5,6 @@ categories: [프로그래밍, 기술비평]
 tags: [javascript, 게임]
 ---
 
-
-
-
-
 # phaser를 쓰지 말아야 할 3가지 이유
 
 1. 도큐먼트가 불친절하다.
