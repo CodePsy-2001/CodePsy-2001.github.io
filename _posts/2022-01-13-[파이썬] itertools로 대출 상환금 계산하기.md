@@ -10,8 +10,9 @@ from itertools import accumulate
 # accumulate는 원하는 함수를 반복해서 누적 연산하는 제너레이터를 생성한다.
 
 cashflows = [1000, -90, -80, -100, -120]
+
+# 기존 balanced에 연이율 5%를 적용하고, payment를 더한다.
 def loan_calc(balance, payment):
-    # 기존 balanced에 연이율 5%를 적용하고, payment를 더한다.
     return balance*1.05 + payment
 
 list(accumulate(cashflows, loan_calc))
